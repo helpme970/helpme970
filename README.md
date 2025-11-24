@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm coding some stuff in my free time
 <!--
 **helpme970/helpme970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
