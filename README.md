@@ -1,17 +1,24 @@
 ## Hi there 👋
 
 I'm coding some stuff in my free time
-<!--
-**helpme970/helpme970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here could be your advertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```
+______ _____  _   __  
+|  ___/  __ \| | / /  
+| |_  | /  \/| |/ /   
+|  _| | |    |    \   
+| |   | \__/\| |\  \  
+\_|    \____/\_| \_/  
+                      
+                      
+ _   _  ______ _____  
+| \ | ||___  //  ___| 
+|  \| |   / / \ `--.  
+| . ` |  / /   `--. \ 
+| |\  |./ /___/\__/ / 
+\_| \_/\_____/\____/
+```
